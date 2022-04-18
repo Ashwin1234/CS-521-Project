@@ -31,3 +31,7 @@ Just follow along by running module by module.
 
 We recommend switching to GPU since it will be faster and take less time for the model to train.
 
+## Output
+
+Our output for each model is present in the Google collab notebook, we have evaluation metrics like accuracy, f1 score, recall and precision.
+
