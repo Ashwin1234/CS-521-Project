@@ -34,4 +34,5 @@ We recommend switching to GPU since it will be faster and take less time for the
 ## Output
 
 Our output for each model is present in the Google collab notebook, we have evaluation metrics like accuracy, f1 score, recall and precision.
+We have also plotted Model accuracy graph (accuracy vs epochs) for each neural network model as can be seen in the collab notebook.
 
